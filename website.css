@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    color: white;
+}
+
+.navbar{
+    background-color: rgb(255, 0, 0);
+    display: flex;
+    justify-content: space-between;
+    gap: 0px;}
+    
+.container{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 300px;
+    margin-top: -90px;
+    font-size: 20px;
+
+    
+}
+
+.img{
+    padding: 0px;
+    margin: 5px;
+    margin-top: -40;
+}
+.button{
+    margin-left: 1800px;
+    margin-top: -100px;
+    margin-right: 40px;
+    color: black;
+    height: 30px;
+    width: 100px;
+    font-size: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 20px;
+}
+body{
+    background-image: url(file:///C:/Users/STAR/Downloads/orig.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
